@@ -1,2 +1,6 @@
-# TRIADA_CTF-
-Challenge files for TRIADA CTF
+# Triada Capture the Flag Competition
+Challenge files for Triada CTF
+- WEB
+- CRYPTO
+- STEG
+- etc..
