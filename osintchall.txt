@@ -1,0 +1,10 @@
+A Shadow in the System. 
+
+A recent forensic analysis has uncovered a mysterious Android malware strain that silently injects malicious code into system processes. 
+
+This Android malware gains root access to modify system files and remain undetected. Its modular design allows it to download components for malicious activities, especially ad fraud, generating fake clicks and impressions to steal ad revenue. Often pre-installed on budget devices through compromised supply chains, it specifically targets low-cost Android phones, making it persistent and elusive.
+
+Find the name of this Android malware and the year it was first discovered 
+
+Flag Format:TRIADA{malwarename_year}
+
